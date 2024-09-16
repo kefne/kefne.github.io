@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kefne.github.io/Rqo/sitemap.Rqo.gz
